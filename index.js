@@ -54,4 +54,4 @@ function Getval(){
     });
 }
 
-setInterval(function(){Getval()},200);
+setInterval(function(){Getval()},20);
